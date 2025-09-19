@@ -9,9 +9,11 @@ class Program
         double amount = 3.5;
         bool iscorrect = true;
 
-        Console.WriteLine(encryptedmessage);
-        Console.WriteLine(length);
+        
+        Console.WriteLine(encryptedmessage + "oSa0JqX4" + 3 + "-" + "1");
+        /*nsole.WriteLine(length);
         Console.WriteLine(amount);
         Console.WriteLine(iscorrect);
+        */
     }
 }
